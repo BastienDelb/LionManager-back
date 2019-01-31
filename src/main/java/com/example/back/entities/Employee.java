@@ -20,5 +20,9 @@ public class Employee {
 	private Long id;
 	private String lastName;
 	private String firstName;
+	private String sector;
+	private String[] skills;
+	private Long remuneration;
+	private String imageUrl;
 
 }
